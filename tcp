@@ -1,0 +1,8 @@
+hloo who r u doing 
+Last login: Tue Apr 28 08:14:42 2026 from 49.37.171.55
+[ec2-user@ip-172-31-41-66 ~]$ sudo -i
+[root@ip-172-31-41-66 ~]# cd raju
+[root@ip-172-31-41-66 raju]# git log
+commit 66d7aa9ed51fe14dcffd5053d052d78f2aba9b0a (HEAD -> master, origin/master)
+Author: root <root@ip-172-31-41-66.eu-north-1.compute.internal>
+Date:   Tue Apr 28 08:17:51 2026 +0000
